@@ -1,2 +1,2 @@
-# studying-python
+# studying
 My personal repository
